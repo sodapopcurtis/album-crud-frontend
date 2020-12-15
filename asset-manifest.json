@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/album-crud-frontend/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/album-crud-frontend/static/js/main.9be44c07.chunk.js",
+    "main.js.map": "/album-crud-frontend/static/js/main.9be44c07.chunk.js.map",
+    "runtime-main.js": "/album-crud-frontend/static/js/runtime-main.f9412732.js",
+    "runtime-main.js.map": "/album-crud-frontend/static/js/runtime-main.f9412732.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/album-crud-frontend/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.2d5f2c2a.chunk.js": "/album-crud-frontend/static/js/2.2d5f2c2a.chunk.js",
+    "static/js/2.2d5f2c2a.chunk.js.map": "/album-crud-frontend/static/js/2.2d5f2c2a.chunk.js.map",
+    "static/js/3.5521cddb.chunk.js": "/album-crud-frontend/static/js/3.5521cddb.chunk.js",
+    "static/js/3.5521cddb.chunk.js.map": "/album-crud-frontend/static/js/3.5521cddb.chunk.js.map",
+    "index.html": "/album-crud-frontend/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/album-crud-frontend/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/album-crud-frontend/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.2d5f2c2a.chunk.js.LICENSE.txt": "/album-crud-frontend/static/js/2.2d5f2c2a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9412732.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.2d5f2c2a.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9be44c07.chunk.js"
+  ]
+}
